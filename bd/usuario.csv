@@ -1,0 +1,5 @@
+id_usuario;usuario;nombre;apellido;email;pass;telefono;direccion;tipo_usuario;foto_perfil
+1;mcardoso;Mailen;Cardoso;mailalacardoso@gmail.com;holanda123;3412103600;Parana 400;administrador;NULL
+2;gastonalbizuri;Gaston;Albizuri;gastonalbizuri@gmail.com;holanda123;3468500043;Cordoba 269;administrador;NULL
+3;mgonzalez;Maria;Gonzalez;mgonzalez@fjdfgf.com;casablanca123;3413587934;Lavalle 333;Cliente;NULL
+4;mirtagarcia;Mirta;Garcia;mirtagracielagarcia58@gmail.com;dolores12;3416758398;Parana 464;Cliente;NULL

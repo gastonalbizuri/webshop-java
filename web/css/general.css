@@ -1,0 +1,191 @@
+.container-log{
+    padding-top: 150px;
+    padding-left: 350px;
+}
+
+.container-profile{
+    height: 1200px; 
+    
+}
+
+.container{
+    height:100%;
+}
+
+
+
+h3{
+  padding-bottom: 20px;
+}
+
+.form-check{
+    padding-bottom: 5px;
+}
+
+.registrar{
+    padding-bottom: 5px;
+    text-align: right;
+}
+
+#update-button{
+    padding-top: 60px;
+    padding-left: 430px;
+}
+
+.sing-out{
+    padding-right: 45px;
+    padding-top: 15px;
+}
+
+#personal h3{
+    padding-right: 90px;
+}
+
+
+#second-row label{
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+
+.prof{
+    font-weight: bold;
+
+}
+
+#modificar-datos-button{
+    padding-left: 55px;
+}
+
+#exampleInputNombre, #exampleInputApellido,
+#exampleInputUsuario, #exampleInputContraseña,
+#exampleInputCorreo, #exampleInputTel, #exampleInputDireccion{
+    font-weight: bold;
+}
+
+#modif{
+    padding-top: 60px;
+}
+
+.logo-navbar {
+    width: 80px;
+    heigth: 80px;
+}
+
+.carrito-navbar {
+    width: 50px;
+    heigth: 50px;
+}
+
+.logo{
+    width: 200px;
+    heigth: 80px;
+}
+
+#product-abm{
+    padding-top: 50px;
+    
+}
+
+#button-abmproduct{
+    color:  white;
+}
+
+#altaproduc{
+  
+    padding-top: 30px;
+}
+
+
+
+.pedido{
+    padding-top: 20px;
+}
+
+.img-delete{
+    width: 150px;
+    heigth: 150px;
+}
+
+#cantidad {
+    padding-left: 25px;
+    margin-left: 5px;
+}
+
+#cantidad input{
+    width: 15px !important;
+}
+
+#carrito-button{
+    margin-left: 30px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    color: white;
+}
+
+.listadoprod {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+#tablaListado{
+    width: 50%;
+    margin-left: 375px;
+    margin-top: 30px;
+}
+
+#pedido{
+    padding-top: 30px;
+    text-align: center;
+    padding-right: 50px;
+    
+}
+
+#carrito-register{
+    margin-left: 600px;
+}
+
+#seguir-comprando{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.carrito-vacio{
+    width: 25%;
+    heigth: 25%;
+}   
+
+#tablaListadoPedidos{
+    width: 70%;
+    margin-left: 130px;
+    margin-right: 170px;
+    
+}
+
+#tablaListadoPedidos thead{
+    text-align: center;
+}
+
+#button-index{
+    width: 300px;
+    margin-bottom: 40px;
+}
+
+#volver-button a{
+    margin-left: 150px;
+    width: 120px;
+}
+
+.img-perfil{
+    width: 150px;
+    heigth: 150px;
+    margin-right: 210px;
+}
+
+.perfil{
+    margin-right: 150px;
+}
+
+#cerrarsesion{
+    margin-left: 50px;
+    margin-top: 50px;
+}
